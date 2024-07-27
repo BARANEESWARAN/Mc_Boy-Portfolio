@@ -17,7 +17,7 @@ function Experiance() {
     <BsPatchCheckFill/>
     <div>
     <h4>HTML</h4>
-    <small className='text-light'>Experienced</small>
+{/*     <small className='text-light'>Experienced</small> */}
 
     </div>
 
@@ -26,12 +26,12 @@ function Experiance() {
     <BsPatchCheckFill className='experience__icon'/>
     <div>
     <h4>CSS</h4>
-    <small className='text-light'>Experienced</small>
+{/*     <small className='text-light'>Experienced</small> */}
     </div>
    
   </article>
   <article className='experience__details'>
-    <BsPatchCheckFill className='experience__icon'/>
+{/*     <BsPatchCheckFill className='experience__icon'/> */}
 
     <div>
     <h4>Javascript</h4>
@@ -43,7 +43,7 @@ function Experiance() {
     <BsPatchCheckFill className="experience__icon"/>
     <div>
     <h4>Bootstrap</h4>
-    <small className='text-light'>Experienced</small>
+    // <small className='text-light'>Experienced</small>
     </div>
 
   </article> */}
@@ -51,7 +51,7 @@ function Experiance() {
     <BsPatchCheckFill className="experience__icon"/>
     <div>
     <h4>React js</h4>
-    <small className='text-light'>Experienced</small>
+{/*     <small className='text-light'>Experienced</small> */}
     </div>
    
   </article>
@@ -59,7 +59,50 @@ function Experiance() {
     <BsPatchCheckFill className="experience__icon"/>
     <div>
     <h4>Mysql</h4>
-    <small className='text-light'>Basic</small>
+{/*     <small className='text-light'>Basic</small> */}
+    </div>
+   
+  </article>
+
+    <article className='experience__details'>
+    <BsPatchCheckFill className="experience__icon"/>
+    <div>
+    <h4>Ant Design</h4>
+{/*     <small className='text-light'>Experienced</small> */}
+
+    </div>
+
+  </article>
+  <article className='experience__details'>
+    <BsPatchCheckFill className="experience__icon"/>
+    <div>
+    <h4>Bootstrap</h4>
+{/*     <small className='text-light'>Experienced</small> */}
+    </div>
+   
+  </article>
+  <article className='experience__details'>
+    <BsPatchCheckFill className="experience__icon"/>
+
+    <div>
+    <h4>Material UI</h4>
+{/*     <small className='text-light'>Experienced</small> */}
+    </div>
+  
+  </article>
+  <article className='experience__details'>
+    <BsPatchCheckFill className="experience__icon"/>
+    <div>
+    <h4>PWA</h4>
+{/*     <small className='text-light'>Experienced</small> */}
+    </div>
+
+  </article>
+  <article className='experience__details'>
+    <BsPatchCheckFill className="experience__icon"/>
+    <div>
+    <h4>Github</h4>
+{/*     <small className='text-light'>Experienced</small> */}
     </div>
    
   </article>
@@ -69,14 +112,12 @@ function Experiance() {
 
 </div>
 <div className='experience__backend'>
-<h3>Frontend Frameworks and Technologies.</h3>
-
-<div className='experience__content'>
+<h3>Backend Technologies.</h3>
   <article className='experience__details'>
     <BsPatchCheckFill className="experience__icon"/>
     <div>
-    <h4>Ant Design</h4>
-    <small className='text-light'>Experienced</small>
+    <h4>Node js</h4>
+{/*     <small className='text-light'>Experienced</small> */}
 
     </div>
 
@@ -84,8 +125,8 @@ function Experiance() {
   <article className='experience__details'>
     <BsPatchCheckFill className="experience__icon"/>
     <div>
-    <h4>Bootstrap</h4>
-    <small className='text-light'>Experienced</small>
+    <h4>Express Js</h4>
+{/*     <small className='text-light'>Experienced</small> */}
     </div>
    
   </article>
@@ -93,27 +134,14 @@ function Experiance() {
     <BsPatchCheckFill className="experience__icon"/>
 
     <div>
-    <h4>Material UI</h4>
+    <h4>MongoDb</h4>
     <small className='text-light'>Experienced</small>
     </div>
   
   </article>
-  <article className='experience__details'>
-    <BsPatchCheckFill className="experience__icon"/>
-    <div>
-    <h4>PWA</h4>
-    <small className='text-light'>Experienced</small>
-    </div>
+ 
+<div className='experience__content'>
 
-  </article>
-  <article className='experience__details'>
-    <BsPatchCheckFill className="experience__icon"/>
-    <div>
-    <h4>Github</h4>
-    <small className='text-light'>Experienced</small>
-    </div>
-   
-  </article>
 </div>
 </div>
 
